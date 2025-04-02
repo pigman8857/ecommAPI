@@ -121,3 +121,5 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 [Nestjs backend rest api - Ecommerce project. Data validation with class validator & transformer.](https://www.youtube.com/watch?v=CEmyqhleNd8&list=PLxL5WsbN2Sm6uY31egfjfO540B0KOqrP4&index=6)
 
 [Nestjs backend rest api - Ecommerce project. Improve authorization guard with mixin](https://www.youtube.com/watch?v=OgiFNxOWn-I&list=PLxL5WsbN2Sm6uY31egfjfO540B0KOqrP4&index=12)
+
+[Nestjs backend rest api - Ecommerce project. Create resource with nest cli, create product entity.](https://www.youtube.com/watch?v=oJUG3Wte3KU&list=PLxL5WsbN2Sm6uY31egfjfO540B0KOqrP4&index=14)
